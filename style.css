@@ -1,0 +1,18 @@
+#babyimg {
+  background: #ff5733; /* Цвет фона для первого блока */
+  height: auto;
+  position: absolute;
+  margin: 220px 600px; /* Позиционирование блока */
+  z-index: 1; /* Более высокий z-index */
+}
+
+#baby {
+  background: #eba434;
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  margin: 215px 565px;
+  border-radius: 50px;
+  opacity: 1;
+  z-index: 0; /* Более низкий z-index */
+}
